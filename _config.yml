@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+deploy:
+  type: git
+  repo: git@github.com:lijianwu/lijianwu.github.io.git
+  branch: master
